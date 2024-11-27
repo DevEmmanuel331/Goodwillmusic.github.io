@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'IM SO LONELY BROKEN ANGEL BY ARASH MP3 DOWNLOAD', link: 'IMSOLONELY.html' },
         { title: 'DEFE DEFE By Team Eternity MP3 Download ', link: 'teameternity.html' },
         { title: 'WHY BY ADINA MP3 DOWNLOAD', link: 'adinawhy.html' },
-        { title: 'Song 2', link: '' },
+        { title: 'DADIE ANOMA BY KOJO ANTWI MP3  DOWNLOAD', link: 'kojoantwid.html' },
         
 
     ];
