@@ -1,0 +1,263 @@
+
+body, h1, h2, p, ul, li, input, textarea, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: linear-gradient(to right, #333, #555);
+    color: white;
+    font-weight: bolder;
+    padding: 1em 0;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    background-color: #fff;
+    overflow: hidden;
+    width: 100%; 
+    margin-left: auto;
+
+    
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    
+}
+
+nav ul li a:hover {
+    color: #ffd700;
+}
+
+main {
+    padding: 2em 10%;
+    margin: 0;
+}
+
+section {
+    background: white;
+    padding: 2em;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2em;
+    animation: fadeIn 3s ease-out;
+    margin-left:-22px;
+    position: relative;
+    width: 90%;
+    margin-right:-22px;
+
+}
+
+h2 {
+    margin-bottom: 1em;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+}
+
+#search-bar:focus {
+    border-color: #ffd700;
+    outline: none;
+}
+
+#music-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#music-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+#music-list li:hover {
+    background-color: #f9f9f9;
+}
+
+#music-list a {
+    text-decoration: none;
+    color: #333;
+    background: #ffd700;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#music-list a:hover {
+    background-color: #ffc107;
+}
+
+#contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-form label {
+    margin-top: 10px;
+}
+
+#contact-form input, #contact-form textarea {
+    margin-top: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+#contact-form input:focus, #contact-form textarea:focus {
+    border-color: #ffd700;
+    outline: none;
+}
+
+#contact-form button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#contact-form button:hover {
+    background-color: #555;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.bbmusic{
+    display: flex;
+    justify-content: space-between;
+}
+.bmusic{
+    height: auto;
+    width: 300px;
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    border-color: black;
+    border: 5px;
+    box-shadow: 0px 0px 20px;
+    display: flex; 
+
+}
+.musiclink{
+    
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(46, 44, 44);
+    font-size: 10px;
+
+}
+.download{
+    margin-top: 30px;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    padding-top: 10px;
+    width: 100px;
+}
+a{
+text-decoration: none;
+font-weight: bolder;
+text-align: center;
+}
+.download:hover{
+    background-color: #ffc107;
+    color:black ;
+}
+
+
+
+#myBtn {
+        position: fixed;
+        bottom: 0px;
+        float: right;
+        right: 18.5%;
+        left: 77.25%;
+        background: transparent;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    
+
+    
+    #backToTopBtn {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        display: none; /* Initially hidden */
+        background: transparent;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        width:20pxpx;
+        height: 10px;
+        margin-bottom: 20px;
+    }
+    
+    
