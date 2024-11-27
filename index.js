@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'MAKOMA BY KING PALUTA MP3 DOWNLOAD', link: 'kingpaluta.html' },
         { title: 'IM SO LONELY BROKEN ANGEL BY ARASH MP3 DOWNLOAD', link: 'IMSOLONELY.html' },
         { title: 'DEFE DEFE By Team Eternity MP3 Download ', link: 'teameternity.html' },
-        { title: 'Song 2', link: '' },
+        { title: 'WHY BY ADINA MP3 DOWNLOAD', link: 'adinawhy.html' },
         { title: 'Song 2', link: '' },
         
 
