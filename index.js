@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
          { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
          { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
-         { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
+         { title: 'ADDI SELF - TALK ABOUT ME MP3 DOWNLOAD ', link: 'talk.html' },
          { title: 'ADANE BEST - SISI MP3 DOWNLOAD ', link: 'best.html' },
         { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
          { title: 'ABREWA NANA FT. SAMINI - ESISI MESO MP3 DOWNLOAD ', link: 'meso.html' },
