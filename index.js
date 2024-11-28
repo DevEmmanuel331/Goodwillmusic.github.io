@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-         { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
+         { title: 'ADOMcwesi - YESU NKOAA (JESUS ALONE) FT. BECKY BONNEY MP3 DOWNLOAD ', link: 'yesu.html' },
          { title: 'ADINA - TOO LATE MP3 DOWNLOAD ', link: 'late.html' },
          { title: 'ADDI SELF - TALK ABOUT ME MP3 DOWNLOAD ', link: 'talk.html' },
          { title: 'ADANE BEST - SISI MP3 DOWNLOAD ', link: 'best.html' },
