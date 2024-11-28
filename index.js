@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+         { title: 'PRAISE THE LORD BY TIM GODFREY MP3 DOWNLOAD ', link: 'tim.html' },
          { title: 'ADOMcwesi - YESU NKOAA (JESUS ALONE) FT. BECKY BONNEY MP3 DOWNLOAD ', link: 'yesu.html' },
          { title: 'ADINA - TOO LATE MP3 DOWNLOAD ', link: 'late.html' },
          { title: 'ADDI SELF - TALK ABOUT ME MP3 DOWNLOAD ', link: 'talk.html' },
