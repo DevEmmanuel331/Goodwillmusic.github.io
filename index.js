@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
        
-    
+        { title: ' AFRICAN BROTHERS BAND - MA ME NSU MA WO MP3 DOWNLOAD ', link: 'ma.html' },
          { title: ' AFRICA PROSPERITY NETWORK, STONEBWOY - BELIEVE IN AFRICA MP3 DOWNLOAD ', link: 'stone.html' },
          { title: 'DAAVI  BY MZVEE MP3 DOWNLOAD ', link: 'daavi.html' },
          { title: 'PRAISE THE LORD BY TIM GODFREY MP3 DOWNLOAD ', link: 'tim.html' },
