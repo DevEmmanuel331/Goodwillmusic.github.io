@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-        
+       
+    
+         { title: ' AFRICA PROSPERITY NETWORK, STONEBWOY - BELIEVE IN AFRICA MP3 DOWNLOAD ', link: 'stone.html' },
          { title: 'DAAVI  BY MZVEE MP3 DOWNLOAD ', link: 'daavi.html' },
          { title: 'PRAISE THE LORD BY TIM GODFREY MP3 DOWNLOAD ', link: 'tim.html' },
          { title: 'ADOMcwesi - YESU NKOAA (JESUS ALONE) FT. BECKY BONNEY MP3 DOWNLOAD ', link: 'yesu.html' },
