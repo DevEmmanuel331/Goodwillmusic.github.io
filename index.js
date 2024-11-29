@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        
+         { title: 'DAAVI  BY MZVEE MP3 DOWNLOAD ', link: 'daavi boo.html' },
          { title: 'PRAISE THE LORD BY TIM GODFREY MP3 DOWNLOAD ', link: 'tim.html' },
          { title: 'ADOMcwesi - YESU NKOAA (JESUS ALONE) FT. BECKY BONNEY MP3 DOWNLOAD ', link: 'yesu.html' },
          { title: 'ADINA - TOO LATE MP3 DOWNLOAD ', link: 'late.html' },
