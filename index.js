@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title: '  KING PALUTA -FOR THE POPPING /APICKI MP3 DOWNLOAD', link: 'apicki.html' },
+        { title: ' DJ VYRUSKY FT KIDI KING PALUTA - SIKA MP3 DOWNLOAD', link: 'sika.html' },
         { title: ' AGATHA BY AFRICAN BROTHERS BAND INTERNATIONAL MP3 DOWNLOAD', link: 'aga.html' },
         { title: ' AFRICAN BROTHERS BAND - MA ME NSU MA WO MP3 DOWNLOAD ', link: 'ma.html' },
          { title: ' AFRICA PROSPERITY NETWORK, STONEBWOY - BELIEVE IN AFRICA MP3 DOWNLOAD ', link: 'stone.html' },
