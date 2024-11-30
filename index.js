@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+         { title: '  BAWUMIA B3BA BY ENO BARONY MP3 DOWNLOAD', link: 'bawumia.html' },
         { title: '  KING PALUTA -FOR THE POPPING /APICKI MP3 DOWNLOAD', link: 'apicki.html' },
         { title: ' DJ VYRUSKY FT KIDI KING PALUTA - SIKA MP3 DOWNLOAD', link: 'sika.html' },
         { title: ' AGATHA BY AFRICAN BROTHERS BAND INTERNATIONAL MP3 DOWNLOAD', link: 'aga.html' },
