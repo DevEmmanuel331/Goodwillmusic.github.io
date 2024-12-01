@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
        
+         { title: ' KUAMI EUGENE - PROBLEM MP3 DOWNLOAD ', link: 'prom.html' },
          { title: ' AKWABOAH - HELLO FT. SARKODIE MP3 DOWNLOAD ', link: 'hello.html' },
         { title: 'AKPE BY BETHEL REVIVAL CHOIR MP3 DOWNLOAD ', link: 'bet.html' },
          { title: 'AKOSUA  AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
