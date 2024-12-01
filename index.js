@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+          { title: 'VERY SOON BY FAMEYE  MP3 DOWNLOAD ', link: 'soon.html' },
          { title: ' EMPRESS GIFTY - WATCH ME  MP3 DOWNLOAD ', link: 'watch.html' },
          { title: ' ROSÉ FT BRUNO MARS -APT MP3 DOWNLOAD ', link: 'apt.html' },
          { title: ' KUAMI EUGENE - PROBLEM MP3 DOWNLOAD ', link: 'prom.html' },
