@@ -3,8 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
        
          { title: ' AKWABOAH - HELLO FT. SARKODIE MP3 DOWNLOAD ', link: 'hello.html' },
         { title: 'AKPE BY BETHEL REVIVAL CHOIR MP3 DOWNLOAD ', link: 'bet.html' },
-         { title: 'AKOSUA AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
-         { title: 'AKOSUA AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
+         { title: 'AKOSUA  AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
          { title: ' AKATAKYIE - SIN IMA  MPS3 DOWNLOAD', link: 'sin.html' },
         { title: '  AGYA BOMOFOUR THUNDER - MEDA HO MAWO MP3 DOWNLOAD', link: 'meda.html' },
          { title: '  BAWUMIA B3BA BY ENO BARONY MP3 DOWNLOAD', link: 'bawumia.html' },
