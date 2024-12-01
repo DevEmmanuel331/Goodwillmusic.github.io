@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-
+         { title: ' EMPRESS GIFTY - WATCH ME  MP3 DOWNLOAD ', link: 'watch.html' },
          { title: ' ROSÉ FT BRUNO MARS -APT MP3 DOWNLOAD ', link: 'apt.html' },
          { title: ' KUAMI EUGENE - PROBLEM MP3 DOWNLOAD ', link: 'prom.html' },
          { title: ' AKWABOAH - HELLO FT. SARKODIE MP3 DOWNLOAD ', link: 'hello.html' },
