@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-
+        { title: 'AKPE BY BETHEL REVIVAL CHOIR MP3 DOWNLOAD ', link: 'bet.html' },
+         { title: 'AKOSUA AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
          { title: 'AKOSUA AGYAPONG - EKA BI NIE MP3 DOWNLOAD ', link: 'eka.html' },
          { title: ' AKATAKYIE - SIN SIMA  MP3 DOWNLOAD', link: 'sin.html' },
         { title: '  AGYA BOMOFOUR THUNDER - MEDA HO MAWO MP3 DOWNLOAD', link: 'meda.html' },
