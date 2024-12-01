@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-       
+
+         { title: ' ROSÉ FT BRUNO MARS -APT MP3 DOWNLOAD ', link: 'apt.html' },
          { title: ' KUAMI EUGENE - PROBLEM MP3 DOWNLOAD ', link: 'prom.html' },
          { title: ' AKWABOAH - HELLO FT. SARKODIE MP3 DOWNLOAD ', link: 'hello.html' },
         { title: 'AKPE BY BETHEL REVIVAL CHOIR MP3 DOWNLOAD ', link: 'bet.html' },
