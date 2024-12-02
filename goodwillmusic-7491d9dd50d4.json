@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "goodwillmusic",
+  "private_key_id": "7491d9dd50d4ac96fa7e0d43bb889b4ba3ecc057",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBZq3/dDTnOHaj\nJoVHu9KQu9De33aP5mTZRByvmI2MHbfu+mtVGyKYbqxR3DR0af/GCSbSPkOuX3CY\nJFKHtZ6po640VIn3O7Se7jTyRgOAQmt+8DFYhVJlZo0bx+9nS82eZ22i+hc6tTEs\nDVUyn1hDPEordZXR07gRFKmAk1syAfybwzyGxTMA+d4e3SoMDC+LFH+qZtL4rTQV\nprhQRUQUZsgF8r61c/iRsh6U8+QZRkaUma9jkYeMmRuLbU3Z5Tg+GKogj2QicgGU\nf4SS1bAFyXndK+RRleLS9NNRViTB4rIc2iLOjr4vGuzVeNmPgxfYKITLkgw+gEFF\nThQ3CS9nAgMBAAECggEAR7YXiXOg1CWDE/7KB620p3cEvUc1sqjWtxsC2fdicNRq\nKcIP/1gW7VeILLhOeOX+8YLeMrHkraj02m0Jbwmggb1P8FZya8pnMFEaL8VXMf0u\n17wfR/fzc+bhJq5tbitU3En0hKxf5aRezbtJ3oHoG9IknFW2zj1HcIntSeAZvgIK\nb/IQUUnL3vMs7xzGgWddwbTTYchqrib09zzbkarM+yAV/1vRkSNvFd4rM80amYjX\novhIvjIbDMtsYUfxAksKLceOiB9DBkVsaTpxEZkolZOimH9J7cgEM9jUelntL1Je\ndXaQlKCQTAaYaRyPZwMQZf7brpMK6ewvj5TPAuifhQKBgQDnoR56lO5jUY0PMDk/\nvzrv3MOIjsr5rWLCFnnqB7rInwpMsb56WloqaZN1WkytrGMviTkG4h3zG4tIDCtp\nMtf31Lz9F2evFgGkvyfRZV6cBz5IFtF3kg0nX60pgPD+9f141amVj+5n9XgvvtYL\nYxaccjhtA4WVHCw58HH0L87AywKBgQDVv+Ql04o4zGvl9qJMAhMYN4k0RCoa+Oxe\nXlOtA6qBofGUNm36K6b4ALz3WD36BH5Svd0WW2wujkMNHAxTfH7+6Iao5MqRXfPC\nxCFdHmMzzTJTncj6NU7dbSX682yYaCQjwIdfny+57NlUl4jLfd5M8HOUppPPlD1U\n6BsJqSAEVQKBgQCtAH0YR2ZqDf4Siw0nXLgzcSsmMqjNpT/vAQSb1JwgvhDeSZ+g\nGR3hMauuafx9dxU56v8J8hc2fasg6938m7oM4/sn+bQ6ZHBj0VZ3IoRwe0R8aXaY\nHSDv+JkIN8NIWwivmL4p9C+3u/LBjoKmTKMVxIX6fjfmr/0kZT9nh9Gf0wKBgBZr\nbCiziXnvpxmVxuwmA460tIVw6OGvXkt/pVMuYUH7lHUxSFPHJFo66ZcgAFArDHzt\nQTVJHY28ijfjyz8ufbuK9CTe6ohYzGqPW9iCiXEzgqXWlO/5i24aNrOduLQ7qB6/\n4PMcpUrhFuKSilydtSVoyxa6aiKJr+0p8zwOKzeJAoGBAJVBBPim9NW/LMD811Bl\nFxU5jpr/unwp3udHQ4HOxZnIWOs8uzLituoQ5Dxv3/xkGSQIN3fAdqh4rqI+DYWd\nXIfvI+VgKqDibV0SdxMHE/OxjSDusiS3rctzFb35ABjZD917YYFFwf4CYR6r9Wvk\nrCjsbYaMY0VDIVwuf4G8mn8V\n-----END PRIVATE KEY-----\n",
+  "client_email": "goodwillmusic@goodwillmusic.iam.gserviceaccount.com",
+  "client_id": "111540580735193240844",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/goodwillmusic%40goodwillmusic.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
