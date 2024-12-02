@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        
+        { title: 'AYELE BY DOMAE MAGIC MP3 DOWNLOAD ', link: '.html' },
         { title: 'JINGLE BELLS (DRILL REMIX) BY ISHOLABEATZ MP3 DOWNLOAD ', link: 'jingle.html' },
           { title: 'VERY SOON BY FAMEYE  MP3 DOWNLOAD ', link: 'soon.html' },
          { title: ' EMPRESS GIFTY - WATCH ME  MP3 DOWNLOAD ', link: 'watch.html' },
