@@ -56,7 +56,7 @@ input[type="text"]:focus {
 }
 
 .post-title {
-    font-size: 2em;
+    font-size: 1em;
     color: #333;
 }
 
@@ -67,7 +67,7 @@ input[type="text"]:focus {
 
 .post-content {
     margin-top: 20px;
-    font-size: 1.2em;
+    font-size: 18px;
 }
 
 .feedback {
@@ -108,9 +108,9 @@ input[type="text"]:focus {
 }
 
 $#comment-text{
-    width: 150px;
+    width: 100%;
     padding: 10px;
-    height: 100px;
+    height: 100%;
     border-radius: 5px;
     border: 1px solid #ccc;
     font-size: 1em;
