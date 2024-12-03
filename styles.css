@@ -253,13 +253,13 @@ h1 {
 }
 
 .blog-title {
-    font-size: 1em;
+    font-size: 1.4em;
     color: #333;
 }
 
 .blog-description {
-    font-size: 1.2em;
-    color: #777;
+    font-size: 1em;
+    color: blue;
     margin-top: 10px;
 }
 
