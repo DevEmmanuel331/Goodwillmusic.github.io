@@ -57,8 +57,9 @@ input[type="text"]:focus {
 }
 
 .post-title {
-    font-size: 40px;
+    font-size: 25px;
     color: #333;
+    font-weight:bold;
 }
 
 .post-date {
