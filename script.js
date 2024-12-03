@@ -45,22 +45,3 @@ function submitComment(postId) {
     }
 }
 // Function to filter blog posts based on search input
-function filterBlogs() {
-    // Get the search input value and convert to lowercase for case-insensitive matching
-    const searchQuery = document.getElementById('search-bar').value.toLowerCase();
-    
-    // Get all blog items
-    const blogs = document.querySelectorAll('.blog-item');
-    
-    // Loop through each blog item and check if it matches the search query
-    blogs.forEach(blog => {
-        const title = blog.getAttribute('data-title').toLowerCase();
-        
-        // If the title contains the search query, show the blog; otherwise, hide it
-        if (title.includes(searchQuery)) {
-            blog.style.display = 'block';
-        } else {
-            blog.style.display = 'none';
-        }
-    });
-}
