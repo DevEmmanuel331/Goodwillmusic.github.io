@@ -107,57 +107,90 @@ input[type="text"]:focus {
     background-color: #e53935;
 }
 
-/* Comment Section Styles */
-.comments {
-    margin-top: 30px;
+
+/* Reset basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-.comment-input {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.comment-section {
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+textarea {
     width: 100%;
     padding: 10px;
-    height: 100px;
+    font-size: 1em;
     border-radius: 5px;
-    border: 1px solid #ccc;
-    font-size: 1em;
-    margin-bottom: 10px;
-    outline: none;
+    border: 1px solid #ddd;
+    resize: vertical;
 }
 
-.comment-input:focus {
-    border-color: #007BFF;
-}
-
-.submit-comment {
-    padding: 10px 20px;
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: #fff;
     font-size: 1em;
-    cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #007BFF;
-    color: white;
-    transition: background-color 0.3s ease;
+    cursor: pointer;
 }
 
-.submit-comment:hover {
+button:hover {
     background-color: #0056b3;
 }
 
-/* Comment List Styles */
-.comment-list {
-    margin-top: 20px;
+.comment {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.comment {
-    background-color: #f0f0f0;
-    padding: 15px;
-    border-radius: 5px;
-    margin-bottom: 10px;
+.comment span {
+    font-weight: bold;
 }
 
 .comment p {
-    font-size: 1em;
-    color: #333;
+    margin-top: 5px;
+    color: #555;
 }
+
+
+
+
+
+
 
 footer {
     background-color: #333;
@@ -259,7 +292,7 @@ h1 {
 
 .blog-description {
     font-size: 1em;
-    color: #ADD8E6;
+    color: blue;
     margin-top: 10px;
 }
 
