@@ -225,6 +225,7 @@ h1 {
     transform: translateY(20px);
     animation: fadeIn 0.5s forwards;
     transition: transform 0.3s ease-in-out;
+    width:100%;
 }
 
 .blog-item:hover {
