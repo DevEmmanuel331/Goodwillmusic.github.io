@@ -71,7 +71,8 @@ input[type="text"]:focus {
 
 .post-content {
     margin-top: 20px;
-    font-size: 1em;
+    font-size: 0.8em;
+    margin:10px;
 }
 
 .feedback {
