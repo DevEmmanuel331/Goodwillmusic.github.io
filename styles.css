@@ -108,7 +108,7 @@ input[type="text"]:focus {
 }
 
 $#comment-text{
-    width: 200px;
+    width: 300px;
     padding: 10px;
     height: 150px;
     border-radius: 5px;
