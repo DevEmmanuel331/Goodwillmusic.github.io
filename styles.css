@@ -107,7 +107,7 @@ input[type="text"]:focus {
     margin-top: 30px;
 }
 
-.comment-input {
+$#comment-text{
     width: 100%;
     padding: 10px;
     height: 100px;
@@ -122,7 +122,7 @@ input[type="text"]:focus {
     border-color: #007BFF;
 }
 
-.submit-comment {
+button {
     padding: 10px 20px;
     font-size: 1em;
     cursor: pointer;
@@ -133,7 +133,7 @@ input[type="text"]:focus {
     transition: background-color 0.3s ease;
 }
 
-.submit-comment:hover {
+button:hover {
     background-color: #0056b3;
 }
 
