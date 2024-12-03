@@ -58,7 +58,8 @@ input[type="text"]:focus {
 }
 
 .post-title {
-    font-size: 25px;
+    margin:5px;
+    font-size: 20px;
     color: #333;
     font-weight:bold;
 }
