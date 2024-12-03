@@ -29,19 +29,53 @@ function filterPosts() {
 }
 
 // Function to submit a comment
-function submitComment(postId) {
-    const commentInput = document.getElementById(`comment-input-${postId}`);
-    const commentText = commentInput.value.trim();
-    const commentList = document.getElementById(`comment-list-${postId}`);
+// Function to display comments
+function displayComments() {
+    const commentsContainer = document.getElementById('comments-container');
+    commentsContainer.innerHTML = ''; // Clear existing comments
 
-    if (commentText !== "") {
-        const newComment = document.createElement('div');
-        newComment.classList.add('comment');
-        newComment.innerHTML = `<p><strong>You:</strong> ${commentText}</p>`;
-        commentList.appendChild(newComment);
-        commentInput.value = ''; // Clear the input
-    } else {
-        alert("Please enter a comment.");
-    }
+    const comments = JSON.parse(localStorage.getItem('comments')) || [];
+
+    // Display all stored comments
+    comments.forEach(comment => {
+        const commentDiv = document.createElement('div');
+        commentDiv.classList.add('comment');
+        
+        const commentText = `<span>${comment.user}</span><p>${comment.text}</p>`;
+        commentDiv.innerHTML = commentText;
+
+        commentsContainer.appendChild(commentDiv);
+    });
 }
-// Function to filter blog posts based on search input
+
+// Function to add a new comment
+function addComment() {
+    const commentText = document.getElementById('comment-text').value.trim();
+
+    if (commentText === '') {
+        alert('Please write a comment before posting!');
+        return;
+    }
+
+    const newComment = {
+        user: 'Anonymous',  // Can be replaced with actual user input if needed
+        text: commentText
+    };
+
+    // Get the current comments from localStorage
+    const comments = JSON.parse(localStorage.getItem('comments')) || [];
+
+    // Add the new comment to the list
+    comments.push(newComment);
+
+    // Store the updated comments back in localStorage
+    localStorage.setItem('comments', JSON.stringify(comments));
+
+    // Clear the textarea and re-display all comments
+    document.getElementById('comment-text').value = '';
+    displayComments();
+}
+
+// Initialize the comment section
+displayComments();
+
