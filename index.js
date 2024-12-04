@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
-         
+         { title:'ALHAJI K FRIMPONG - KYENKYEN BI ADI MAWU MP3 DOWNLOAD ', link: 'kye.html' },
            { title:'AKWANKWAA HIANIA BY ADU KWASI MP3 DOWNLOAD ', link: 'hia.html' },
           { title:'AKWABOAH FT STRONGMAN - FOREVER MP3 DOWNLOAD ', link: 'stro.html' },
          { title:'AKWABOAH - WO PƐ WADIƐ MP3 DOWNLOAD ', link: 'wo.html' },
