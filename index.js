@@ -1,5 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+
+
+
+         
+           { title:'AKWANKWAA HIANIA BY ADU KWASI MP3 DOWNLOAD ', link: 'hia.html' },
+          { title:'AKWABOAH FT STRONGMAN - FOREVER MP3 DOWNLOAD ', link: 'stro.html' },
+         { title:'AKWABOAH - WO PƐ WADIƐ MP3 DOWNLOAD ', link: 'wo.html' },
+        { title:'AKWABOAH - I DO LOVE YOU REMIX FT. ICE PRINCE MP3 DOWNLOAD ', link: ' ice.html' },
          { title:'BONNIE TYLER - TOTAL ECLIPSE OF THE HEART TURN AROUND MP3 DOWNLOAD ', link: 'bonnie.html' },
         { title: 'AYELE BY DOMAE MAGIC MP3 DOWNLOAD ', link: 'ayele.html' },
         { title: 'JINGLE BELLS (DRILL REMIX) BY ISHOLABEATZ MP3 DOWNLOAD ', link: 'jingle.html' },
