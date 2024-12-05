@@ -1,7 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-
-
         { title:'AMERADO - GRACE FT LASMID MP3 DOWNLOAD ', link: 'grace.html' },
         { title:'AMAARAE - WASTED EYES MP3 DOWNLOAD ', link: 'wasted.html' },        
         { title:'AMAARAE - SWEEEET MP3 DOWNLOAD ', link: 'swe.html' },
