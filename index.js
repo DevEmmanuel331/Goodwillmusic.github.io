@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title:'AMERADO FT SAMINI - ANKONAM REMIX MP3 DOWNLOAD ', link: 'anka.html' },
         { title:'AMERADO - DATE RUSH MP3 DOWNLOAD ', link: 'rush.html' },
         { title:'AMANZEBA NAT BREW - DEDE MP3 DOWNLOAD ', link: 'nat.html' },
-        { title:'AMAARAE - PRINCESS GOING MP3 DOWNLOAD ', link: 'go.html' }
+        { title:'AMAARAE - PRINCESS GOING MP3 DOWNLOAD ', link: 'go.html' },
          { title:'ALHAJI K FRIMPONG - KYENKYEN BI ADI MAWU MP3 DOWNLOAD ', link: 'kye.html' },
            { title:'AKWANKWAA HIANIA BY ADU KWASI MP3 DOWNLOAD ', link: 'hia.html' },
           { title:'AKWABOAH FT STRONGMAN - FOREVER MP3 DOWNLOAD ', link: 'stro.html' },
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title:'AKWABOAH - I DO LOVE YOU REMIX FT. ICE PRINCE MP3 DOWNLOAD ', link: ' ice.html' },
          { title:'BONNIE TYLER - TOTAL ECLIPSE OF THE HEART TURN AROUND MP3 DOWNLOAD ', link: 'bonnie.html' },
         { title: 'AYELE BY DOMAE MAGIC MP3 DOWNLOAD ', link: 'ayele.html' },
-        { title: 'JINGLE BELLS (DRILL REMIX) BY ISHOLABEATZ MP3 DOWNLOAD ', link: 'jingle.html' },
+        { title: 'JINGLE BELLS DRILL REMIX BY ISHOLABEATZ MP3 DOWNLOAD ', link: 'jingle.html' },
           { title: 'VERY SOON BY FAMEYE  MP3 DOWNLOAD ', link: 'soon.html' },
          { title: ' EMPRESS GIFTY - WATCH ME  MP3 DOWNLOAD ', link: 'watch.html' },
          { title: ' ROSÉ FT BRUNO MARS -APT MP3 DOWNLOAD ', link: 'apt.html' },
