@@ -2,7 +2,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
 
 
-
+        { title:'AMERADO - GRACE FT LASMID MP3 DOWNLOAD ', link: 'grace.html' },
+        { title:'AMAARAE - WASTED EYES MP3 DOWNLOAD ', link: 'wasted.html' },        
+        { title:'AMAARAE - SWEEEET MP3 DOWNLOAD ', link: 'swe.html' },
+        { title:'AMERADO FT SAMINI - ANKONAM REMIX MP3 DOWNLOAD ', link: 'anka.html' },
+        { title:'AMERADO - DATE RUSH MP3 DOWNLOAD ', link: 'rush.html' },
+        { title:'AMANZEBA NAT BREW - DEDE MP3 DOWNLOAD ', link: 'nat.html' },
+        { title:'AMAARAE - PRINCESS GOING MP3 DOWNLOAD ', link: 'go.html' }
          { title:'ALHAJI K FRIMPONG - KYENKYEN BI ADI MAWU MP3 DOWNLOAD ', link: 'kye.html' },
            { title:'AKWANKWAA HIANIA BY ADU KWASI MP3 DOWNLOAD ', link: 'hia.html' },
           { title:'AKWABOAH FT STRONGMAN - FOREVER MP3 DOWNLOAD ', link: 'stro.html' },
