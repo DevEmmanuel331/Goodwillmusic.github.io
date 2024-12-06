@@ -1,5 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'DAVIDO - FUNDS FT ODUMODUBLVCK, CHIKE MP3 DOWNLOAD ', link: 'funds.html' },
+        { title:'FOLA - BYE BYE MP3 DOWNLOAD ', link: 'byebye.html' },
+        { title:'PRINCESS - JOEY B MP3 DOWNLOAD ', link: 'princess.html' },
+        { title:'LIL BABA- NAZEL 3LA FO2   MP3 DOWNLOAD ', link: '3la.html' },
+        { title:'KWEN KWEN NDC SOROKU CAMPAIGN SONG FROM NACEE MP3 DOWNLOAD ', link: 'kwen.html' },
+        { title:'FOLA - TONIGHT MP3 DOWNLOAD ', link: 'tonight.html' },
+        { title:'GEN Z - KREPTISMENACE ,JOEY B , KWESI ARTHUR MP3 DOWNLOAD ', link: 'gen.html' },
         { title:'AMERADO - GRACE FT LASMID MP3 DOWNLOAD ', link: 'grace.html' },
         { title:'AMAARAE - WASTED EYES MP3 DOWNLOAD ', link: 'wasted.html' },        
         { title:'AMAARAE - SWEEEET MP3 DOWNLOAD ', link: 'swe.html' },
