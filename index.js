@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'AMERADO - KWAKU ANANSE REMIX FEAT. FAMEYE MP3 DOWNLOAD ', link: 'ananser.html' },
         { title:'AMERADO - KWAKU ANANSE MP3 DOWNLOAD ', link: 'ananse.html' },
         { title:'AMERADO - JUJU FT. CLEMENTO SUAREZ MP3 DOWNLOAD ', link: 'juju.html' },
         { title:'AMERADO - I AM AWARE MP3 DOWNLOAD ', link: 'aware.html' },
