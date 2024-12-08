@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'AMERADO - JUJU FT. CLEMENTO SUAREZ MP3 DOWNLOAD ', link: 'juju.html' },
         { title:'AMERADO - I AM AWARE MP3 DOWNLOAD ', link: 'aware.html' },
         { title:'DAVIDO - FUNDS FT ODUMODUBLVCK, CHIKE MP3 DOWNLOAD ', link: 'funds.html' },
         { title:'PRINCESS - JOEY B MP3 DOWNLOAD ', link: 'princess.html' },
