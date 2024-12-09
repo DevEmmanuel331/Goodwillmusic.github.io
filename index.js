@@ -1,5 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'SHATTA WALE - WASH MP3 DOWNLOAD ', link: 'wash.html' },
+        { title:'SHATTA WALE - BLESSINGS FEAT. AMERADO MP3 DOWNLOAD ', link: 'bless.html' },
+        { title:'SHATTA WALE - CLAP MP3 DOWNLOAD ', link: 'clap.html' },
         { title:'RUGER - TOMA TOMA FEAT. TIWA SAVAGE MP3 DOWNLOAD ', link: 'toma.html' },
         { title:'PA SALIEU - BIG SMILE POSE FOR ME FEAT. ODUMODUBLVCK MP3 DOWNLOAD ', link: 'bigsmile.html' },
         { title:'FAMEYE - ONLY YOU MP3 DOWNLOAD ', link: 'only1.html' },
