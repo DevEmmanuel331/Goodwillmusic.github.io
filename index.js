@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'RUGER - TOMA TOMA FEAT. TIWA SAVAGE MP3 DOWNLOAD ', link: 'toma.html' },
         { title:'PA SALIEU - BIG SMILE POSE FOR ME FEAT. ODUMODUBLVCK MP3 DOWNLOAD ', link: 'bigsmile.html' },
         { title:'FAMEYE - ONLY YOU MP3 DOWNLOAD ', link: 'only1.html' },
         { title:'BRUCE MELODIE - NIKI MINAJI FEAT. BLAQ DIAMOND MP3 DOWNLOAD ', link: 'niki.html' },
