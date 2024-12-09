@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'FAMEYE - ONLY YOU MP3 DOWNLOAD ', link: 'only1.html' },
+        { title:'BRUCE MELODIE - NIKI MINAJI FEAT. BLAQ DIAMOND MP3 DOWNLOAD ', link: 'niki.html' },
         { title:'AMERADO - KWAKU ANANSE REMIX FEAT. FAMEYE MP3 DOWNLOAD ', link: 'ananser.html' },
         { title:'AMERADO - KWAKU ANANSE MP3 DOWNLOAD ', link: 'ananse.html' },
         { title:'AMERADO - JUJU FT. CLEMENTO SUAREZ MP3 DOWNLOAD ', link: 'juju.html' },
