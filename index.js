@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'DEI BIE - ANKONAM REMIX FEAT. BOSOMA MP3 DOWNLOAD ', link: 'nam1.html' },
         { title:'SHATTA WALE - WASH MP3 DOWNLOAD ', link: 'wash.html' },
         { title:'SHATTA WALE - BLESSINGS FEAT. AMERADO MP3 DOWNLOAD ', link: 'bless.html' },
         { title:'SHATTA WALE - CLAP MP3 DOWNLOAD ', link: 'clap.html' },
