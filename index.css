@@ -259,5 +259,7 @@ text-align: center;
         height: 10px;
         margin-bottom: 20px;
     }
-    
+    .content h3 {
+    margin-bottom: 10px;
+    color: #007bff;
     
