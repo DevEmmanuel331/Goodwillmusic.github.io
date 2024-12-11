@@ -17,7 +17,7 @@ h1 {
 
 .search-bar {
     margin-top: 20px;
-    margin-bottom: 2em;
+    margin-bottom: 3em;
 
 }
 
@@ -76,6 +76,8 @@ header {
     background-color: #fff;
     margin-bottom: 0.9em;
         height:100%;
+        padding: 30px;
+
     
 }
 
