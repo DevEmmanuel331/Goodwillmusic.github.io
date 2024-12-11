@@ -8,7 +8,7 @@ function filterContent() {
 
     // Loop through each content section
     contentSections.forEach(section => {
-        const title = section.querySelector('h2').textContent.toLowerCase(); // Title of the section
+        const title = section.querySelector('h3').textContent.toLowerCase(); // Title of the section
         const paragraph = section.querySelector('p').textContent.toLowerCase(); // Paragraph text
 
         // Check if the title or paragraph contains the query
