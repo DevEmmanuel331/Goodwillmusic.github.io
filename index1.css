@@ -102,6 +102,7 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
+    justify-content:space-between;
     
 }
 
