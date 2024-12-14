@@ -1,5 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        
+        { title:'FAMA KWAME - KYERE ME ODO MP3 DOWNLOAD ', link: 'kyereo.html' },
+        { title:'FAD LAN - MISA MISA MP3 DOWNLOAD ', link: 'misa.html' },
+        { title:'LUDDY DAVE - DELILAH MP3 DOWNLOAD ', link: 'delia.html' },
         { title:'DEI BIE - ANKONAM REMIX FEAT. BOSOMA MP3 DOWNLOAD ', link: 'nam1.html' },
         { title:'SHATTA WALE - WASH MP3 DOWNLOAD ', link: 'wash.html' },
         { title:'SHATTA WALE - BLESSINGS FEAT. AMERADO MP3 DOWNLOAD ', link: 'bless.html' },
