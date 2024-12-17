@@ -52,10 +52,20 @@
         <section id="home">
             <h2>Welcome to GoodwillMusic</h2>
             <p>Your  place for free music downloads.</p>
-            <audio controls autoplay style="width: 100%; position: relative; margin-right: 60px;">
+            <audio id="audio" controls style="width: 100%; position: relative; margin-right: 60px;">
     <source src="Enam___Libation__OFFICIAL_VISUALISER_(256k).mp3" type="audio/mp3">
     Your browser does not support the audio element
 </audio>
+
+<script>
+  window.onload = function() {
+    var audio = document.getElementById('audio');
+    audio.play().catch(function(error) {
+      console.log('Autoplay prevented:', error);
+    });
+  };
+</script>
+
 
             
         </section>
