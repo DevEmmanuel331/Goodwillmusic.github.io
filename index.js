@@ -161,4 +161,12 @@ const handleSubmit = event => {
   };
   
   document.querySelector("form").addEventListener("submit", handleSubmit);
+
+  window.onload = function() {
+    var audio = document.getElementById('audio');
+    audio.play().catch(function(error) {
+      console.log('Autoplay prevented:', error);
+    });
+  };
+
   
