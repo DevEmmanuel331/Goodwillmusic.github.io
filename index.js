@@ -177,7 +177,7 @@ const handleSubmit = event => {
     });
   };
 
- <script>
+ 
 let slideIndex = 0;
 showSlides();
 
