@@ -39,11 +39,14 @@ header h1 {
 nav ul {
     list-style: none;
     padding: 0;
+        background-image: url("https://images.pexels.com/photos/1303098/pexels-photo-1303098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
 }
 
 nav ul li {
     display: inline;
     margin: 0 15px;
+        background-image: url("https://images.pexels.com/photos/1303098/pexels-photo-1303098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 }
 
 nav ul li a {
@@ -51,7 +54,8 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
-    
+       background-image: url("https://images.pexels.com/photos/1303098/pexels-photo-1303098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+ 
 }
 
 nav ul li a:hover {
