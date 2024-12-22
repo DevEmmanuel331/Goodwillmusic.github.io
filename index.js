@@ -167,13 +167,7 @@ const handleSubmit = event => {
       .catch(error => alert(error));
   };
   
-  document.querySelector("form").addEventListener("submit", handleSubmit);
-
-  window.onload = function() {
-    var audio = document.getElementById('audio');
-    audio.play().catch(function(error) {
-      console.log('Autoplay prevented:', error);
-    });
+  
 
 
 
@@ -278,10 +272,4 @@ function changeNum(el, newVal, timing) {
   }, timing);
 }
 
-
-
-
-function padTo2(num) {
-  return num.toString().padStart(2, "0");
-}
 
