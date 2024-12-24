@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+         { title:'TOO LATE BY WENDY SHAY MP3 DOWNLOAD ', link: 'toolate.html' },
         { title:'AFROBEAT INSTRUMENTAL-DARLING MP3 DOWNLOAD ', link: 'darling.html' },
          { title:'HEDUCATER (KWESI ARTHUR - FEFE NE FE) MP3 DOWNLOAD ', link: 'headu.html' },
         { title:'SZA - DRIVE MP3 DOWNLOAD ', link: 'drive.html' },
