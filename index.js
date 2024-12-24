@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-
-                { title:'HEDUCATER (KWESI ARTHUR - FEFE NE FE) MP3 DOWNLOAD ', link: 'headu.html' },
+        { title:'AFROBEAT INSTRUMENTAL-DARLING MP3 DOWNLOAD ', link: 'darling.html' },
+         { title:'HEDUCATER (KWESI ARTHUR - FEFE NE FE) MP3 DOWNLOAD ', link: 'headu.html' },
         { title:'SZA - DRIVE MP3 DOWNLOAD ', link: 'drive.html' },
          { title:'SZA - GET BEHIND ME (INTERLUDE) MP3 DOWNLOAD ', link: 'Behind.html' },
          { title:'PIESIE ESTHER - ATƐƐNE (OVERTURNED) MP3 DOWNLOAD ', link: 'over.html' },
