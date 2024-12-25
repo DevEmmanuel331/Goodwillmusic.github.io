@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
          { title: 'DAAVI  BY MZVEE MP3 DOWNLOAD ', link: 'daavi.html' },
          { title: 'PRAISE THE LORD BY TIM GODFREY MP3 DOWNLOAD ', link: 'tim.html' },
          { title: 'ADOMcwesi - YESU NKOAA (JESUS ALONE) FT. BECKY BONNEY MP3 DOWNLOAD ', link: 'yesu.html' },
-         { title: 'ADINA - TOO LATE MP3 DOWNLOAD ', link: 'late.html' },
+         { title: 'ADINA - TOO LATE MP3 DOWNLOAD ', link: 'late1.html' },
          { title: 'ADDI SELF - TALK ABOUT ME MP3 DOWNLOAD ', link: 'talk.html' },
          { title: 'ADANE BEST - SISI MP3 DOWNLOAD ', link: 'best.html' },
         { title: 'ABIGAIL COLEMAN - MEKRA (MY SOUL) MP3 DOWNLOAD ', link: 'mekra.html' },
