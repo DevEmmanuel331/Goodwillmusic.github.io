@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+         { title:'SAIDA BOJ - GOLD DIGGER MP3 DOWNLOAD ', link: 'gold1.html' },
          { title:'MAVIS ASANTE - ASEDA NNWOM MP3 DOWNLOAD ', link: 'aseda1.html' },
          { title:'TOO LATE BY WENDY SHAY MP3 DOWNLOAD ', link: 'toolate.html' },
         { title:'AFROBEAT INSTRUMENTAL-DARLING MP3 DOWNLOAD ', link: 'darling.html' },
