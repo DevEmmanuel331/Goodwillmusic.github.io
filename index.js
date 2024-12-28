@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'KING PALUTA FT SHATTA WALE - ADIEPENA MP3 DOWNLOAD ', link: 'King_Paluta_ft_Shatta_Wale_Adiepena.html' },
         { title:'2 PHÚT HƠN FUNK MP3 DOWNLOAD ', link: '2_PHÚT_HƠN_FUNK.html' },
         { title:'MUZIC - AWAY FT YSMANRASTA MP3 DOWNLOAD ', link: 'away1.html' },
          { title:'SAIDA BOJ - GOLD DIGGER MP3 DOWNLOAD ', link: 'gold1.html' },
