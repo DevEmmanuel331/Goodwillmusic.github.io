@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'SANTUS DRILL REMIX PRODBY - DEKINGBEATZ & OGOH PRECIOUS MP3 DOWNLOAD ', link: 'Santus_Drill_Remix.html' },
         { title:'REGGIE FT O KENNETH - ASEM ABA MP3 DOWNLOAD ', link: 'Reggie_O_Kenneth_-_ASEM_ABA.html' },
           { title:'OLIVETHEBOY & MAYORKUN - A FUUL MP3 DOWNLOAD ', link: 'Olivetheboy_Mayorkun_A_Full.html' },
         { title:'OLIVETHEBOY - GOODSIN MP3 DOWNLOAD ', link: 'Olivetheboy_-_GOODSIN.html' },
