@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-                { title:'DJ SLIM FT KING PALUTA - BRONYA MP3 DOWNLOAD ', link: 'Dj_Slim___King_Paluta_-_BRONYA.html' },
+        { title:'OLIVETHEBOY - GOODSIN MP3 DOWNLOAD ', link: 'Olivetheboy_-_GOODSIN.html' },
+        { title:'DJ SLIM FT KING PALUTA - BRONYA MP3 DOWNLOAD ', link: 'Dj_Slim___King_Paluta_-_BRONYA.html' },
         { title:'KING PALUTA FT SHATTA WALE - ADIEPENA MP3 DOWNLOAD ', link: 'King_Paluta_ft_Shatta_Wale_Adiepena.html' },
         { title:'2 PHÚT HƠN FUNK MP3 DOWNLOAD ', link: '2_PHÚT_HƠN_FUNK.html' },
         { title:'MUZIC - AWAY FT YSMANRASTA MP3 DOWNLOAD ', link: 'away1.html' },
