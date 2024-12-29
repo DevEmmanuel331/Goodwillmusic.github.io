@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
-        { title:'TEFLON FLEXX - SECRET BILLIONAIRES FT. SHATTA WALE MP3 DOWNLOAD ', link: 'Secret_Billionaires__feat._Shatta_Wale.htmll' },
+         { title:'TEFLON FLEXX - SECRET BILLIONAIRES FT. SHATTA WALE MP3 DOWNLOAD ', link: 'Secret_Billionaires__feat._Shatta_Wale.html' },
+        { title:'TEFLON FLEXX - SECRET BILLIONAIRES FT. SHATTA WALE MP3 DOWNLOAD ', link: 'Secret_Billionaires__feat._Shatta_Wale.html' },
         { title:'SANTUS DRILL REMIX PRODBY - DEKINGBEATZ & OGOH PRECIOUS MP3 DOWNLOAD ', link: 'Santus_Drill_Remix.html' },
         { title:'REGGIE FT O KENNETH - ASEM ABA MP3 DOWNLOAD ', link: 'Reggie_O_Kenneth_-_ASEM_ABA.html' },
           { title:'OLIVETHEBOY & MAYORKUN - A FUUL MP3 DOWNLOAD ', link: 'Olivetheboy_Mayorkun_A_Full.html' },
