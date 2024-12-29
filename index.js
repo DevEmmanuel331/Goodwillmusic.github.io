@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { title:'AFROBEAT INSTRUMENTAL-DARLING MP3 DOWNLOAD ', link: 'darling.html' },
          { title:'HEDUCATER (KWESI ARTHUR - FEFE NE FE) MP3 DOWNLOAD ', link: 'headu.html' },
         { title:'SZA - DRIVE MP3 DOWNLOAD ', link: 'drive.html' },
-         { title:'SZA - GET BEHIND ME (INTERLUDE) MP3 DOWNLOAD ', link: 'Behind1.html' },
+         { title:'SZA - GET BEHIND ME (INTERLUDE) MP3 DOWNLOAD ', link: 'behind1.html' },
          { title:'PIESIE ESTHER - ATƐƐNE (OVERTURNED) MP3 DOWNLOAD ', link: 'over.html' },
          { title:'MR DREW - SUMƆ MI FT MEDIKAL MP3 DOWNLOAD ', link: 'sumi.html' },
          { title:'MOLIY & SILENT ADDY - SHAKE IT TO THE MAX (FLY) MP3 DOWNLOAD ', link: 'shake.html' },
