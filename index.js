@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
+        { title:'BLACK SHERIF - SHUT UP MP3 DOWNLOAD ', link: 'Black_Sherif_-_Shut_Up.html' },
         { title:'BLACK SHERIF - KILOS MILOS MP3 DOWNLOAD ', link: 'Black_Sherif_-_Kilos_Milos.html' },
         { title:'BENERL - XTRAORDINARY MP3 DOWNLOAD ', link: 'Benerl_-_XtraOrdinary.html' },
         { title:'MAGNITO FT MARKOWI - CARTEL MP3 DOWNLOAD ', link: 'Magnito_Ft_Markowi_-_Cartel.html' },
