@@ -37,7 +37,7 @@ body {
 }
 
 header {
-    background: #ffd700;
+    background-color: #c5aa6a;
     color: black;
     font-weight: bolder;
     padding: 1em 0;
@@ -70,7 +70,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
@@ -194,7 +194,7 @@ h2 {
 }
 
 footer {
-    background-color:#ffd700;
+    background-color:#c5aa6a;
     color: white;
     text-align: center;
     padding: 1em;
