@@ -37,7 +37,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to right, #333, #555);
+    background: yellow;
     color: white;
     font-weight: bolder;
     padding: 1em 0;
@@ -194,7 +194,7 @@ h2 {
 }
 
 footer {
-    background-color: #333;
+    background-color: yellow;
     color: white;
     text-align: center;
     padding: 1em;
