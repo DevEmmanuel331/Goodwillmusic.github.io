@@ -38,7 +38,7 @@ body {
 
 header {
     background: yellow;
-    color: white;
+    color: black;
     font-weight: bolder;
     padding: 1em 0;
     text-align: center;
@@ -194,7 +194,7 @@ h2 {
 }
 
 footer {
-    background-color: yellow;
+    background-color:light-black;
     color: white;
     text-align: center;
     padding: 1em;
