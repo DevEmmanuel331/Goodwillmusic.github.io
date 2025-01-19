@@ -37,7 +37,7 @@ body {
 }
 
 header {
-    background-color: F865B0;
+    
     color: black;
     font-weight: bolder;
     padding: 1em 0;
@@ -45,7 +45,7 @@ header {
     font-size: 18px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     width: 100%;
-    background-color: #fff;
+    background-color: #FFB6C1;
     overflow: hidden;
     width: 100%; 
     margin-left: auto;
