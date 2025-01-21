@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const musicList = [
         
+         { title:' DW3 BY OHENEBA GRANDE MP3 DOWNLOAD ', link: 'Oheneba_Grande_-_DW3.html' },
          { title:'BANGER BY BIGTIMZZZ MP3 DOWNLOAD ', link: 'banger_by_bigtimzzz.html' },
         { title:'SARKODIE - MESSIAH FT KWEKU FLICK MP3 DOWNLOAD ', link: 'Sarkodie_-_Messiah_ft._Kweku_Flick.html' },
         { title:'SZA - 30 FOR 30 FEAT. KENDRICK LAMAR MP3 DOWNLOAD ', link: 'SZA_-_30_For_30_feat._Kendrick_Lamar.html' },
